@@ -1,1 +1,1 @@
-Write-Ouput "This is a test"
+Write-Output "This is a test"
